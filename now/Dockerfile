@@ -1,0 +1,1 @@
+FROM luke9966/lemon-mart-swagger-server:1.0.0
